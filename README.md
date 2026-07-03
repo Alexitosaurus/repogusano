@@ -1,3 +1,3 @@
 # repogusano
 
-hola pinwinos 
+hola pinwinos git add .nano
